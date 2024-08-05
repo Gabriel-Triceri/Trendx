@@ -56,5 +56,5 @@ dotnet ef database update
 
 ### Autor
 ---
-- <sub><b>RM97121 - Gabriel Tricerri André Niacaris</b></sub>
+- <sub><b>Gabriel Tricerri André Niacaris</b></sub>
 

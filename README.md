@@ -1,5 +1,5 @@
 # Trendx
-Teste pratico c# Trendx (Realização do Crud com banco de dados My server)
+Teste pratico c# Trendx (Realização do Crud com banco de dados Sql server)
 
 ### Principais Funcionalidades
 - **Cadastrar Tarefas**: Adiciona novas Tarefas ao sistema.
@@ -54,7 +54,7 @@ dotnet ef database update
 ### **Endpoint de DELETE**
 - DELETE /api/task/{id}: Deleta uma Tarefa pelo ID.
 
-### Autores
+### Autor
 ---
 - <sub><b>RM97121 - Gabriel Tricerri André Niacaris</b></sub>
 

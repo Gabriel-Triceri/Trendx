@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lista de Tarefas</name>
+    </assembly>
+    <members>
+        <member name="T:Lista_de_Tarefas.Migrations.MigrationSql">
+            <inheritdoc />
+        </member>
+        <member name="M:Lista_de_Tarefas.Migrations.MigrationSql.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Lista_de_Tarefas.Migrations.MigrationSql.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Lista_de_Tarefas.Migrations.MigrationSql.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
